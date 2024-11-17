@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+}
+
+ul li {
+  font-weight: bold;
+  color: green;
+  margin-top: 5px;
+}
+
+ul {
+  border: 1px solid green;
+  background-color: rgb(158, 155, 155);
+}
